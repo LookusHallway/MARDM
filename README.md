@@ -101,14 +101,17 @@ echo -e "Downloading pretrained models for HumanML3D dataset"
 gdown --fuzzy https://drive.google.com/file/d/1TBybFByAd-kD4AuFgMyR3ZBt4VV43Sif/view?usp=sharing
 gdown --fuzzy https://drive.google.com/file/d/1csjlxi0uOhfPPEwiThsR0gaj7_VDmgb6/view?usp=sharing
 gdown --fuzzy https://drive.google.com/file/d/1nWoEcN4rEFKi4Xyf_ObKinDmSQNPKXgU/view?usp=sharing
+gdown --fuzzy https://drive.google.com/file/d/1nfX_j8VzMmynqKv8x68pXrsL3c0qWLXA/view?usp=sharing
 echo -e "Unzipping"
 unzip MARDM_SiT_XL.zip
 unzip MARDM_DDPM_XL.zip
 unzip length_estimator.zip
+unzip AE_humanml3d.zip
 echo -e "Cleaning zips"
 rm MARDM_SiT_XL.zip
 rm MARDM_DDPM_XL.zip
 rm length_estimator.zip
+rm AE_humanml3d.zip
 
 cd ../../
 ```
