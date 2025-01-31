@@ -38,6 +38,10 @@
 - [x] Release the clean codes for implementation.
 - [x] Release the evaluation codes and the pretrained models.
 - [x] Release the simple and minimalist version of codes for implementation.
+- [ ] Release updated version of AE weights and scripts
+
+## 📢 News
+- Will be releasing the updated version of AE weights with more support and scripts soon after cleaning the code.
 
 ##  ⚙️ Getting Started
 <details>
