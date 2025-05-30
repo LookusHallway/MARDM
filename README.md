@@ -32,7 +32,7 @@
   </p>
 </p>
 
-### [NEW] ACMDM: Absolute Coordinates Are All We Need for Text-Driven Motion Generation
+### [NEW] [ACMDM](https://neu-vi.github.io/ACMDM/): Absolute Coordinates Are All We Need for Text-Driven Motion Generation
 
 ### Official Simple & Minimalist PyTorch Implementation
 
