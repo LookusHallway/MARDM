@@ -28,9 +28,11 @@
     <br>
     Northeastern University 
     <br>
-    arXiv 2024
+    CVPR 2025
   </p>
 </p>
+
+### [NEW] ACMDM: Absolute Coordinates Are All We Need for Text-Driven Motion Generation
 
 ### Official Simple & Minimalist PyTorch Implementation
 
