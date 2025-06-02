@@ -1,4 +1,4 @@
-# Rethinking Diffusion for Text-Driven Human Motion Generation (arXiv 2024)
+# Rethinking Diffusion for Text-Driven Human Motion Generation (CVPR 2025)
 ![](./MARDM.png)
 
 <p align="center">
