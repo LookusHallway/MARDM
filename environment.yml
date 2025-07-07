@@ -194,7 +194,7 @@ dependencies:
       - bash-kernel==0.9.3
       - bleach==6.2.0
       - chumpy==0.70
-      - clip==1.0
+      - openai-clip
       - comm==0.2.2
       - cycler==0.12.1
       - debugpy==1.8.8
